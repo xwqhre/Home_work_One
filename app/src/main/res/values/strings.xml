@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Home_work_One</string>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="age">age</string>
+    <string name="end">end</string>
+    <string name="nameFourth">name</string>
+    <string name="ageFourth">age</string>
+    <string name="surnameFourth">surname</string>
+</resources>
